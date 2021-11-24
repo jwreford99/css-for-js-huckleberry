@@ -10,3 +10,17 @@ body {
 }
 
 /* Add styles here! */
+strong {
+  color: hsl(160, 100%, 30%);
+}
+
+.indented-heading {
+  background-color: hsl(45, 100%, 50%);
+  border-bottom: 10px solid hsl(45, 100%, 40%);
+}
+
+.card {
+  background-color: hsl(0, 0%, 60%);
+  border-top: 10px solid hsl(0, 0%, 40%);
+}
+
