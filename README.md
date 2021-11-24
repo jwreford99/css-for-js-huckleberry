@@ -1,3 +1,5 @@
+# Module 1 of CSS for JS course
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.
